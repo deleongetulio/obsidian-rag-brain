@@ -1,0 +1,7 @@
+# Dependencias del entorno virtual del RAG (.venv-rag), separado del python del
+# sistema porque sentence-transformers/torch son pesados y no hacen falta para
+# los scripts de mantenimiento del vault.
+sentence-transformers>=5.0
+torch>=2.2
+numpy>=1.26
+markitdown[pdf]>=0.1

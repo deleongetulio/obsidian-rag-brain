@@ -1,0 +1,3 @@
+# Dependencias del python del sistema (scripts de mantenimiento del vault).
+anthropic
+pyzotero
