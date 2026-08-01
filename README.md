@@ -1,6 +1,6 @@
 # Obsidian RAG Brain
 
-*[Version en espanol](README.es.md)*
+*Translated version - [original in Spanish](README.es.md)*
 
 A set of scripts that turn an Obsidian vault (a personal knowledge base) into
 a system that can be searched, cross-referenced, and maintained with the help
@@ -82,3 +82,7 @@ Local embeddings and hybrid search, incremental indexing with content
 hashing, LLM-assisted classification with a human-in-the-loop guardrail, and
 building a personal knowledge-management pipeline that treats "propose" and
 "commit" as separate stages.
+
+---
+
+[getuliodeleon.com](https://getuliodeleon.com/) | [LinkedIn](https://www.linkedin.com/in/getulio-cesar-de-leon-fernandez-05267a3b3/) | [GitHub](https://github.com/deleongetulio)
