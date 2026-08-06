@@ -1,4 +1,8 @@
+`GITHUB.COM/DELEONGETULIO`
+
 # Obsidian RAG Brain
+
+---
 
 *Version original - [traduccion al ingles](README.md)*
 

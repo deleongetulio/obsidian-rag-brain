@@ -1,4 +1,8 @@
+`GITHUB.COM/DELEONGETULIO`
+
 # Obsidian RAG Brain
+
+---
 
 *Translated version - [original in Spanish](README.es.md)*
 
